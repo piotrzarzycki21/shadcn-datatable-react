@@ -2,7 +2,7 @@
 
 Welcome to an example of Shadcn DataTable React - This is a simple example that was built based on [Shadcn DataTable](https://github.com/shadcn/ui/tree/main/apps/data-table) documentation and [Tenstack Table editable example](https://tanstack.com/table/v8/docs/framework/react/examples/editable-data). Each table have pagination which was implemented based on Shadcn example [here](https://ui.shadcn.com/docs/components/data-table#pagination). The project uses Zod for cell validation and Tailwind CSS for styling.
 
-This example is intended to gather what is out there fragmented in the internet, hopefully it helps you as much as it helps me. Project created based on @Aszusz template [zero-to-react](https://github.com/Aszusz/zero-to-react).
+This example is intended to gather what is out there fragmented in the internet, hopefully it helps you as much as it helps me. Project created based on [Aszusz](https://github.com/Aszusz) template [zero-to-react](https://github.com/Aszusz/zero-to-react).
 
 ## Prerequisites
 
